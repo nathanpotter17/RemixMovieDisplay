@@ -4,5 +4,5 @@
 
 ## Remix Movies Display
 
-![home]("./home.png")
-![display]("./display.png")
+![home](./home.png)
+![display](./display.png)
