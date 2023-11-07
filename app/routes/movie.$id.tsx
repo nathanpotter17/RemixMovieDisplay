@@ -6,7 +6,7 @@ export async function loader({params}: LoaderFunctionArgs) {
     {
       headers: {
         accept: 'application/json',
-        Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI4MTdjMmQ4ZTI4NjYyNzI4NzMyMWQ1MjA2ZmJiMWRjMCIsInN1YiI6IjY1NDJlOGZmM2UwMWVhMDExZGNhZWRlNiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.C7kGBMs-geGbS2D9vSSTvZPh_ZXtO3w78vgcJ1WvC4c'
+        Authorization: ''
       },
     }
   );
